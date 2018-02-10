@@ -1,0 +1,6 @@
+name: Sloth
+main: com.hydrapvp.sloth.SlothPlugin
+version: 2.0
+authors: [hydrapvp, ursinn]
+commands:
+    Sloth:
